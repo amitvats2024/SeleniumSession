@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-11T16:18:55 EDT" name="Default suite" finished-at="2024-09-11T16:18:55 EDT" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2024-09-11T16:18:55 EDT" name="Default test" finished-at="2024-09-11T16:18:55 EDT" duration-ms="51">
+      <class name="mytests.TestNGFeatures">
+        <test-method is-config="true" signature="connectWithDB()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="connectWithDB" finished-at="2024-09-11T16:18:55 EDT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectWithDB -->
+        <test-method is-config="true" signature="createUser()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="createUser" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="openBrowser" finished-at="2024-09-11T16:18:55 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logintoApp" finished-at="2024-09-11T16:18:55 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="cartTest()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="cartTest" finished-at="2024-09-11T16:18:55 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logout" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logintoApp" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="paymentTest()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="paymentTest" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logout" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="logintoApp()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logintoApp" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintoApp -->
+        <test-method signature="searchTest()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="searchTest" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="logout" finished-at="2024-09-11T16:18:55 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="closeBrowser" finished-at="2024-09-11T16:18:55 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="deleteUser()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="deleteUser" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method is-config="true" signature="disconnectwithDB()[pri:0, instance:mytests.TestNGFeatures@1cf6d1be]" started-at="2024-09-11T16:18:55 EDT" name="disconnectwithDB" finished-at="2024-09-11T16:18:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectwithDB -->
+      </class> <!-- mytests.TestNGFeatures -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
